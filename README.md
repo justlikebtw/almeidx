@@ -1,9 +1,13 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidx&layout=compact&count_private=true&show_icons=true&theme=dark" />
-</a>
+I'm a hobbyist programmer making things I find interesting or useful to me.
+
+Some technologies I know/I'm interested in and/or might mess around with sometime in the future:
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</p>
+  
+[![almeidx's Github Stats](https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![almeidx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidx&layout=compact&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **almeidx/almeidx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
