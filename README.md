@@ -7,12 +7,15 @@
   - Node
   - React
 
-[![almeidx's Github Stats](https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![almeidx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidx&layout=compact&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><b>Click to view my GitHub statistics</b></summary>
 
+  <img src='https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github Stats" />
+</details>
+  
 ## Follow me around
 
-<a href="https://almeidx.me">
+<a href="https://discord.gg/pepe">
   <img src="https://invidget.switchblade.xyz/pepe" align="right">
 </a>
 
