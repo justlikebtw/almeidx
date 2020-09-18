@@ -16,7 +16,7 @@
 ## Follow me around
 
 <a href="https://discord.gg/pepe">
-  <img src="https://invidget.switchblade.xyz/pepe" align="right">
+  <img src="https://invidget.switchblade.xyz/p5Yj4Mk" align="right">
 </a>
 
 - 🎮 **Discord** Almeida#0001
