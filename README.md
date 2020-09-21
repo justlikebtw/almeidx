@@ -11,6 +11,7 @@
   <summary><b>Click to view my GitHub statistics</b></summary>
 
   <img src='https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github Stats" />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almeidx&layout=compact&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github most used languages">
 </details>
   
 ## Follow me around
