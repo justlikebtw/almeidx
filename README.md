@@ -16,6 +16,9 @@
   
 ## Follow me around
 
+- **[Twitch](https://www.twitch.tv/almeidx_)** almeidx_
+- **[YouTube](https://www.youtube.com/channel/UC9hiS7zuW1DdvyEmY7wsJKg)** Almeida
+- **[Steam](https://steamcommunity.com/id/almeidx_)** almeidx_
 - 🎮 **Discord** Almeida#0001
 
 <!--
