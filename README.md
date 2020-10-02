@@ -13,8 +13,12 @@
   <img src='https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github Stats" />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almeidx&layout=compact&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github most used languages">
 </details>
-  
+
 ## Follow me around
+
+<a href="https://pepe-is.life">
+  <img src="https://invidget.switchblade.xyz/pepe" align="right">
+</a>
 
 - **[Twitch](https://www.twitch.tv/almeidx_)** almeidx_
 - **[YouTube](https://www.youtube.com/channel/UC9hiS7zuW1DdvyEmY7wsJKg)** Almeida
