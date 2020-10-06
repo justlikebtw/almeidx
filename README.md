@@ -11,7 +11,10 @@
   <summary><b>Click to view my GitHub statistics</b></summary>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+
+
+<!--END_SECTION:waka-->
 
   <img src='https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github Stats" />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almeidx&layout=compact&count_private=true&show_icons=true&theme=dark' alt="Almeida's Github most used languages">
