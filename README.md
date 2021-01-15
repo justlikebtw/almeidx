@@ -7,14 +7,6 @@
   - Node
   - React
 
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/385132696135008259)
-![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/385132696135008259)
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385009%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
-
 <details>
   <summary><b>Click to view my GitHub statistics</b></summary>
 
