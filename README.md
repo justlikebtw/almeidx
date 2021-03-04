@@ -4,8 +4,9 @@
 - The following are some of the technologies that have picked my interest or that I use very often:
   - TypeScript
   - JavaScript
-  - Node
-  - React
+  - Node.js
+  - React.js
+  - Elixir
 
 <details>
   <summary><b>Click to view my GitHub statistics</b></summary>
