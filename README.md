@@ -1,7 +1,7 @@
 # ✌ Hi, I'm Almeida!
 
 - I'm a self-taught developer based in **Portugal**.
-- The following are some of the technologies that have picked my interest or that I use very often:
+- The following are some of the technologies that have peaked my interest or that I use very often:
   - TypeScript
   - JavaScript
   - Node.js
