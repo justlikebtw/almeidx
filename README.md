@@ -1,12 +1,7 @@
 # ✌ Hi, I'm Almeida!
 
 - I'm a self-taught developer based in **Portugal**.
-- The following are some of the technologies that have peaked my interest or that I use very often:
-  - TypeScript
-  - JavaScript
-  - Node.js
-  - React.js
-  - Elixir
+- Some of the technologies I enjoy working with are: TypeScript, Node.js, React.js and Elixir.
 
 <details>
   <summary><b>Click to view my GitHub statistics</b></summary>
