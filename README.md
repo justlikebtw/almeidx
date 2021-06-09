@@ -1,7 +1,7 @@
 # ✌ Hi, I'm Almeida!
 
 - I'm a self-taught developer based in **Portugal**.
-- Some of the technologies I enjoy working with are: **TypeScript**, **Node.js**, **React.js** and **Elixir**.
+- I enjoy messing around with [TypeScript], [Node.js], [React.js], and [Elixir].
 
 <details>
   <summary><b>Click to view my GitHub statistics</b></summary>
@@ -24,12 +24,17 @@
   <img src="https://invidget.switchblade.xyz/pepe" align="right">
 </a>
 
+- **[Discord]** Almeida#0001
+- **[Steam]** almeidx_
 - **[Twitch]** almeidx_
 - **[YouTube]** Almeida
-- **[Steam]** almeidx_
-- **[Discord]** Almeida#0001
 
 [Twitch]: https://www.twitch.tv/almeidx_
 [YouTube]: https://www.youtube.com/channel/UC9hiS7zuW1DdvyEmY7wsJKg
 [Steam]: https://steamcommunity.com/id/almeidx_
 [Discord]: https://discord.com/users/385132696135008259
+
+[TypeScript]: https://www.typescriptlang.org
+[Node.js]: https://nodejs.org
+[React.js]: https://reactjs.org
+[Elixir]: https://elixir-lang.org
