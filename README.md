@@ -1,4 +1,4 @@
-# ✌ Hi, I'm Almeida!
+# Hi, I'm Almeida!
 
 - I'm a self-taught developer based in **Portugal**.
 - I enjoy messing around with [TypeScript], [Node.js], [React.js], and [Elixir].
